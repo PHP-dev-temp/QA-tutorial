@@ -1,0 +1,8 @@
+C:\gitHUB\software testing part 1\BetCalculator - C#-UnitUntegration Test\BetCalculator\BetCalculator.Test\bin\Debug\BetCalculator.Test.dll
+C:\gitHUB\software testing part 1\BetCalculator - C#-UnitUntegration Test\BetCalculator\BetCalculator.Test\bin\Debug\BetCalculator.Test.pdb
+C:\gitHUB\software testing part 1\BetCalculator - C#-UnitUntegration Test\BetCalculator\BetCalculator.Test\bin\Debug\BetCalculator.dll
+C:\gitHUB\software testing part 1\BetCalculator - C#-UnitUntegration Test\BetCalculator\BetCalculator.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\gitHUB\software testing part 1\BetCalculator - C#-UnitUntegration Test\BetCalculator\BetCalculator.Test\bin\Debug\BetCalculator.pdb
+C:\gitHUB\software testing part 1\BetCalculator - C#-UnitUntegration Test\BetCalculator\BetCalculator.Test\obj\Debug\BetCalculator.Test.csprojResolveAssemblyReference.cache
+C:\gitHUB\software testing part 1\BetCalculator - C#-UnitUntegration Test\BetCalculator\BetCalculator.Test\obj\Debug\BetCalculator.Test.dll
+C:\gitHUB\software testing part 1\BetCalculator - C#-UnitUntegration Test\BetCalculator\BetCalculator.Test\obj\Debug\BetCalculator.Test.pdb

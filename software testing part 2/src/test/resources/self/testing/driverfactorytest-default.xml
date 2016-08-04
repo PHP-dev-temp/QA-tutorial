@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Self Testing">
+<test name="driverfactory without parameter in xml">
+  <groups>
+    <run>
+      <include name="selftest"/>
+    </run>
+  </groups>
+  <classes>
+    <class name="self.testing.DriverFactiryTest"/>
+  </classes>
+</test>
+</suite>

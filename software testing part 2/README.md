@@ -1,0 +1,3 @@
+# qa-tutorial - software testing part 2
+
+Koriscenje selenium WebDrivera + testNG, Data provider, Page Data object, Page factory ...
